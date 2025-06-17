@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "145353269577",
+    "project_id": "sddsm-42ba9",
+    "storage_bucket": "sddsm-42ba9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145353269577:android:82bd2c719e0af5820bba98",
+        "android_client_info": {
+          "package_name": "com.example.sddsm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMSIspHyzcYLPPx8RJgOGyChWnm157Yw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
